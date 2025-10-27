@@ -36,7 +36,6 @@ Home page :
 <img width="1887" height="818" alt="Screenshot 2025-10-27 151537" src="https://github.com/user-attachments/assets/1eebe42c-be1f-4fc1-a58c-9a78efede2bb" />
 About page : 
 <img width="1878" height="817" alt="image" src="https://github.com/user-attachments/assets/de58771c-ab53-45ac-87b8-d623c8d79b7c" />
-<img width="1870" height="680" alt="image" src="https://github.com/user-attachments/assets/0af4eb3a-467f-41e6-9e93-fda44f4486b9" />
 ContactUs page : 
 <img width="1895" height="895" alt="image" src="https://github.com/user-attachments/assets/baa70883-dfe1-43a9-83c7-1fb71e3c7474" />
 CreateCourse page :

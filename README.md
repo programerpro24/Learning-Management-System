@@ -1,6 +1,7 @@
 # Local System 
 Fronted (client) : npm run dev 
-Backend (server) : nodemon server.js 
+Backend (server) : nodemon server.js <img width="1887" height="818" alt="Screenshot 2025-10-27 151537" src="https://github.com/user-attachments/assets/129b24f9-4745-4aca-a53e-e3e9412ae68c" />
+
 
 # Live Demo
 Vercel / Netlify: I will add it as soon as possible.
@@ -32,4 +33,4 @@ Vite: As the fast build tool and development server for the frontend.
 
 
 # screenshots: 
-
+<img width="1887" height="818" alt="Screenshot 2025-10-27 151537" src="https://github.com/user-attachments/assets/6b90d671-01d8-4461-aa07-b8dc134d2c05" />

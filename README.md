@@ -1,6 +1,6 @@
 # Local System 
 Fronted (client) : npm run dev 
-Backend (server) : nodemon server.js <img width="1887" height="818" alt="Screenshot 2025-10-27 151537" src="https://github.com/user-attachments/assets/129b24f9-4745-4aca-a53e-e3e9412ae68c" />
+Backend (server) : nodemon server.js
 
 
 # Live Demo
@@ -31,6 +31,7 @@ React Router DOM: For managing client-side routing and navigation.
 Axios: For making asynchronous HTTP requests (API calls) to the backend.
 Vite: As the fast build tool and development server for the frontend.
 
+# Screenshots
+<img width="1887" height="818" alt="Screenshot 2025-10-27 151537" src="https://github.com/user-attachments/assets/1eebe42c-be1f-4fc1-a58c-9a78efede2bb" />
 
-# screenshots: 
-<img width="1887" height="818" alt="Screenshot 2025-10-27 151537" src="https://github.com/user-attachments/assets/6b90d671-01d8-4461-aa07-b8dc134d2c05" />
+
